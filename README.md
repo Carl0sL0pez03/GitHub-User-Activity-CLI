@@ -36,3 +36,7 @@ Run the CLI with a GitHub username as an argument:
 ```sh
 ./github-activity <username>
 ```
+
+# Challenge roadmap
+
+- https://roadmap.sh/projects/github-user-activity
